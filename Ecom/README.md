@@ -1,2 +1,2 @@
-# Mobile_Shopee-E-Commerce-Website
-In this complete E-commerce Website, We will take a look at how to create Mobile Shopee Using PHP and Mysql Database. We gonna start by creating an HTML template then convert it into PHP and then use MySQL database to fetch products and display it in the project.
+# E-Commerce-Website-for-IoT-Components
+In this mini project, we create a E-Commerce website for IoT components using PHP and Mysql Database. We start by creating an HTML template, styling it and connecting using PHP and then use MySQL database to fetch products and display it in the project.
